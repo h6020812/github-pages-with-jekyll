@@ -1,3 +1,3 @@
-# Welcome to my blog
+# 歡迎來到這邊
 
-I'm glad you are here. I plan to talk about ...
+這裡是學習如何透過 Git操作的示範
